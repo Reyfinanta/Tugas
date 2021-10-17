@@ -25,4 +25,4 @@ ketik git config --global user.email "email yang dipakai di github" lalu kalian 
 ketik git clone (link server git hub)
 ketik ls (untuk melihat kalian ada di direktory mana)
 keltik cd (file direktoty yang aktif) untuk pindah ke direktory clone repo tadi
-lalu ketik git remote untuk melihat apakah git kalian sudah terhubung ke github atau belum
+lalu ketik git remote untuk melihat apakah git kalian sudah terhubung ke github atau belum...
